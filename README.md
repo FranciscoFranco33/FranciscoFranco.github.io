@@ -1,9 +1,7 @@
 Hi! My name is Francisco Franco!
 
-Click in the link below to access my portfolio!   ![Arrow_Down](https://user-images.githubusercontent.com/22245216/214691673-dc88fd0d-db4a-45b4-b34a-b81e9c30e8b9.png)
-
+Click in the link below to access my portfolio!   ![Arrow_Down_v2](https://user-images.githubusercontent.com/22245216/214691991-7771ed9d-54aa-46f4-b958-48cfe7eb7308.png)
 
 # FranciscoFranco.github.io
-Portfolio
 
 
